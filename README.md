@@ -401,6 +401,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NOAN](https://getnoan.com) - Build & automate your business with NOAN's AI knowledge system.
 - [Jev AI — AI for clearer decisions](https://jevai2.com) - Jev AI turns context, constraints, and choices into a clear recommendation—with the reasoning to back it up.
 - [Timeless](https://www.timeless.day) - The first platform where your conversations build your agents.
+- [Luna Interview](https://lunainterview.xyz/) - AI interview copilot Chrome extension that turns your own notes and stories into suggested answers in a side panel next to Meet or Zoom.
 
 ## 💻 Coding & Developer Tools
 
